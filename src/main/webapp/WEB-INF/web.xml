@@ -3,6 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+<<<<<<< HEAD
     <servlet>
         <servlet-name>a</servlet-name>
         <servlet-class>com.zouzixuan.week2.demo.HelloWorldServlet</servlet-class>
@@ -11,4 +12,6 @@
         <servlet-name>a</servlet-name>
         <url-pattern>/hello</url-pattern>
     </servlet-mapping>
+=======
+>>>>>>> origin/master
 </web-app>
